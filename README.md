@@ -1,1 +1,2 @@
-# cs598-dlh
+## CS598 Deep Learning for Healthcare
+# Final Project repository
